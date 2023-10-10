@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Subdomain Takeover Hexa.dd360.mx <code>pages/index.js</code>
+          Subdomain Takeover Hexa
         </p>
       </main>
 
